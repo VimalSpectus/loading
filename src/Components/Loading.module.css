@@ -1,0 +1,25 @@
+.table_heading{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: brown;
+    padding: 6px;
+    color: #ffffff;
+    border: 0.5px solid #a8c9d129;
+}
+.table_body{
+    text-align: center;
+    padding: 6px;
+    border: 0.5px solid #a8c9d129;
+}
+.tbl_head{
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+    margin: auto;
+}
+.tbl_div{
+    border-radius: 5px;
+    width: 96%;
+    margin: auto;
+}
